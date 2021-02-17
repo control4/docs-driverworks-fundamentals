@@ -2,7 +2,7 @@
 
 
 ```xml
-<connections>
+<connection>
       <id>5001</id>
       <facing>6</facing>
       <connectionname>TV</connectionname>
