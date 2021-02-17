@@ -1,4 +1,4 @@
-## Using string.unpack
+## Using string.pack
 
 STRING.PACK can be found in the string library. It packs given arguments into binary string according to format. The format string describes how the parameters (p1, ...) will be interpreted. Numerical values following the operators are standard for operator repetitions and need an according amount of parameters. Operators also expect appropriate parameter types. 
 
